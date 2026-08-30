@@ -2,7 +2,7 @@
 
 Pre-enriched English word library for [WordMaster](https://github.com/yuzhounh/english-word-master).
 
-Based on [lilinji/English](https://github.com/lilinji/English) (949 word books, ~80k unique words), with AI-generated phonetics, definitions, and bilingual example sentences.
+Based on [lilinji/English](https://github.com/lilinji/English), with 949 word books and 80,470 complete dictionary entries containing phonetics, definitions, and bilingual example sentences.
 
 ## Format: `wordmaster-enriched-v1`
 
