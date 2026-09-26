@@ -1,5 +1,7 @@
 # english-word-enriched
 
+[![License: CC BY 4.0 + MIT](https://img.shields.io/badge/License-CC%20BY%204.0%20%2B%20MIT-D4A017.svg)](LICENSE)
+
 Pre-enriched English word library for [WordMaster](https://github.com/yuzhounh/english-word-master).
 
 Based on [lilinji/English](https://github.com/lilinji/English), with 949 word books and 80,470 complete dictionary entries containing phonetics, definitions, and bilingual example sentences.
@@ -51,7 +53,7 @@ Compact keys per word:
 Set environment variables:
 
 ```
-WORD_LIBRARY_REPO=your-user/english-word-enriched
+WORD_LIBRARY_REPO=yuzhounh/english-word-enriched
 WORD_LIBRARY_FORMAT=enriched
 ```
 
@@ -74,4 +76,4 @@ npx tsx scripts/build-enriched-package.ts
 
 ## License
 
-Derived from lilinji/English. See source repository for original terms.
+The dataset, lexicon, vocabulary metadata, and curated directory content are licensed under CC BY 4.0; accompanying scripts and tooling are licensed under MIT. See [LICENSE](LICENSE), and retain attribution to [lilinji/English](https://github.com/lilinji/English) for the source material.
